@@ -2,9 +2,13 @@
 Nome Integrantes 
 
 Antonio Tiago Zaneratto R.A: 24000696 
+
 Flavio Perussi Bertão dos Reis RA: 24001465 
+
 João Pedro Dutra da Silva RA: 24000990        
+
 Laís de Oliveira Lavras RA: 1012023200359 
+
 Maicon Bruno Corrêa da Silva R.A: 24000795
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 Passo a Passo 
