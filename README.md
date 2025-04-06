@@ -321,7 +321,7 @@ com base nas tabelas criadas. Um modelo lógico descreve *as entidades, atributo
 ______________________________________________________________________________________________________________________________      
 
 
-CONCLUSÃO
+## CONCLUSÃO
                           
 O desenvolvimento e implantação do sistema de controle de estoque representaram um avanço significativo na gestão dos recursos da empresa. Ao integrar o acompanhamento de matérias-primas e produtos finalizados, a solução trouxe maior controle, eficiência e confiabilidade às operações, reduzindo perdas e otimizando o processo produtivo e logístico.
 Apesar dos desafios enfrentados ao longo do projeto, os resultados alcançados demonstram o impacto positivo da iniciativa, tanto na rotina operacional quanto no suporte à tomada de decisões estratégicas. Com a adoção do sistema, a empresa está mais preparada para crescer de forma organizada, ágil e sustentável.
